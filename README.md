@@ -1,7 +1,7 @@
 # Marketing Campaigns
 Este projeto se trata de uma análise de campanhas de marketing de uma empresa que vende acessórios para veículos.
 
-![](pexels-cottonbro-4488642.jpg)
+![](images/pexels-cottonbro-4488642.jpg)
 
 ## 1. Problema
 
@@ -35,5 +35,7 @@ O objetivo deste projeto é apresentar os resultados ao cliente em dashboard, le
 - 'custo' - Desconto concedido sobre os produtos promocionados
 
 **Dica:** Caso o cliente com classe gt = “True” não tenha custo, isto significa que o cliente foi a loja porém não usou os descontos recebidos pela campanha.
+
+![](images/Screenshot%202022-01-11%20at%2021.29.38.png)
 
 [LinkedIn](https://www.linkedin.com/in/bibiana-prevedello/)
